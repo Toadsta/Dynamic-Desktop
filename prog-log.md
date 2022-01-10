@@ -15,3 +15,9 @@ Figure out how to rotate images based on time of day
 Build either a GUI or CLI for this application - not to autostart
 
 Finally make it an autostart application that runs anytime pc turns on
+
+Usefull Sources
+===============
+https://pypi.org/project/heic-to-jpg/
+
+https://pypi.org/project/py-wallpaper/
